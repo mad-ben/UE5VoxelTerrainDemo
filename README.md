@@ -3,7 +3,7 @@ Unreal Engine 5 procedural voxel terrian example (partially based on [Transvoxel
 This project provides tools to generate, visualize and in-game change volume terrain using voxels.
 
 > [!WARNING]  
-> This project is discontinued.
+> This project has been discontinued and will forever remain in UE 5.3 version.
 > 
 > Due to the endless changes to the Epic Games UE5 API and third-party plugins, I can't continue developing the project. Each new migration to the next version of UE5 takes longer and longer.
 > 
@@ -13,7 +13,9 @@ This project provides tools to generate, visualize and in-game change volume ter
 > 
 > That's why I decided to stop development.
 > 
-> If you'd like to see an example of using the plugin, check out this link. [UE5 Voxel Terrain Template](https://github.com/bw2012/UE5VoxelTerrainTemplate) 
+> If you'd like to see an example of using the plugin, check out this link: [UE5 Voxel Terrain Template](https://github.com/bw2012/UE5VoxelTerrainTemplate)
+>
+> You can also check out a playable demo of my open-world sandbox RPG, based on the voxel terrain plugin: [DarkLithosphere](https://mega.nz/file/mKoSQDTD#H9zhTK-HGyCfolQuhSGCJ-jOSXfA_IlOsWVU5xPTAgU) 
 
 > [!NOTE]  
 > Tested with Unreal Engine 5.3.1 [Windows 10] [Ubuntu 20.04] [Ubuntu 22.04]
